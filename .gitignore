@@ -1,2 +1,1 @@
-.idea/
-*.py[cop]
+ssh-keygen -t rsa -C "945436771@qq.com"
